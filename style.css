@@ -1,0 +1,341 @@
+body {
+    font-size: larger;
+    color: black;
+    background-color: blanchedalmond;
+    text-align: left;
+}
+
+div.input input[type="text"] {
+    width: 530px;
+    background-color: blanchedalmond;
+}
+
+ul {
+    list-style-type: none;
+    padding: 2px;
+    overflow: hidden;
+    display: inline-flex;
+    width: 100%;
+    font-size: 30px;
+    justify-content: space-between;
+}
+
+li:not(.logo) a {
+    display: block;
+    text-align: center;
+    padding: 25px 8px;
+    margin: 50px 110px;
+    background: radial-gradient(50% 50% at 50% 50%, #cc7400 0%, rgba(239, 187, 127, 0) 100%);
+    color:rgb(255, 255, 255);
+    text-shadow:4px 4px 0 rgba(0, 0, 0, 0.2);
+    text-decoration: none;
+}
+
+nav.naveer{
+    background-image: url(/img/pexels-snapwire-675949.jpg);
+}
+
+.logo{
+    width: 400px;
+}
+
+li:not(.logo) a:hover{
+    background: radial-gradient(50% 50% at 50% 50%, #EFBB7F 0%, rgba(239, 187, 127, 0) 100%);
+}
+
+.naveer ul li:not(.logo) a {
+    display: block;
+    padding: 40px;
+}
+
+
+
+* { box-sizing: border-box; }
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+[class^="box"] {
+    color:white;
+    font-size: 100px;
+    text-align: center;
+    text-shadow:4px 4px 0 rgba(0,0,0,0.1);
+    padding:10px;
+}
+
+.box1 {
+    border-radius: 10px;
+}
+
+/* home page */
+
+section.box2 img {
+    width: 50vw;
+    height: 400px;
+    font-size: 36px; 
+    text-align: left; 
+    background:#9e7a5b;
+}
+
+.box3 {
+    height: 200px; 
+    width: 300px;
+    font-size: 36px; 
+    text-align: left; 
+    background:#9e7a5b;
+    border: solid;
+    border-width: 5px;
+    border-radius: 10px;
+    border-color: #745439;
+}
+
+.box4 {
+    height: 200px; 
+    width: 300px;
+    font-size: 36px; 
+    text-align: left; 
+    background:#9e7a5b;
+    border: solid;
+    border-width: 5px;
+    border-radius: 10px;
+    border-color: #745439;
+}
+
+.box5 {
+    height: 200px;
+    width: 300px; 
+    font-size: 36px; 
+    text-align: left; 
+    background:#9e7a5b;
+    border: solid;
+    border-width: 5px;
+    border-radius: 10px;
+    border-color: #745439;
+}
+
+.box6 {
+    height: 200px; 
+    width: 300px;
+    font-size: 36px; 
+    text-align: left; 
+    background:#9e7a5b;
+    color: white;
+    text-shadow: 4px 4px 0 rgba(0,0,0,0.1);
+    border: solid;
+    border-width: 5px;
+    border-radius: 10px;
+    border-color: #745439;
+}
+
+.box7 {
+    height: 200px;
+    width: 300px; 
+    font-size: 36px; 
+    text-align: left; 
+    background:#9e7a5b;
+}
+
+/* expeditions */
+
+.box11 {
+    height: 275px; 
+    width: 550px; 
+    font-size: 36px; 
+    text-align: left; 
+    background:#9e7a5b;
+    border: solid;
+    border-width: 5px;
+    border-radius: 10px;
+    border-color: #745439;
+}
+
+.box12 {
+    height: 275px;
+    width: 550px; 
+    font-size: 36px; 
+    text-align: left; 
+    background:#9e7a5b;
+    border: solid;
+    border-width: 5px;
+    border-radius: 10px;
+    border-color: #745439;
+}
+
+.box13 {
+    height: 275px; 
+    width: 550px; 
+    font-size: 36px; 
+    text-align: left; 
+    background:#9e7a5b;
+    border: solid;
+    border-width: 5px;
+    border-radius: 10px;
+    border-color: #745439;
+}
+
+/* rules and regulations */
+
+.box16 {
+    height: 300px; 
+    width: 1000px; 
+    font-size: 36px; 
+    text-align: left; 
+    background:#9e7a5b;
+    border: solid;
+    border-width: 5px;
+    border-radius: 10px;
+    border-color: #745439;
+}
+
+.box17 {
+    height: 300px; 
+    width: 1000px; 
+    font-size: 36px; 
+    text-align: left; 
+    background:#9e7a5b;
+    border: solid;
+    border-width: 5px;
+    border-radius: 10px;
+    border-color: #745439;
+}
+
+.box20 {
+    height: 300px; 
+    width: 1000px; 
+    font-size: 36px; 
+    text-align: left; 
+    background:#9e7a5b;
+    border: solid;
+    border-width: 5px;
+    border-radius: 10px;
+    border-color: #745439;
+}
+
+/* about us */
+
+.box22 {
+    height: 300px; 
+    width: 1000px; 
+    font-size: 36px; 
+    text-align: left; 
+    background:#9e7a5b;
+    border: solid;
+    border-width: 5px;
+    border-radius: 10px;
+    border-color: #745439;
+}
+
+.box24 {
+    height: 300px; 
+    width: 1000px; 
+    font-size: 36px; 
+    text-align: left; 
+    background:#9e7a5b;
+    border: solid;
+    border-width: 5px;
+    border-radius: 10px;
+    border-color: #745439;
+}
+
+.box26 {
+    height: 300px; 
+    width: 1000px; 
+    font-size: 36px; 
+    text-align: left; 
+    background:#9e7a5b;
+    border: solid;
+    border-width: 5px;
+    border-radius: 10px;
+    border-color: #745439;
+}
+
+/* registry */
+
+.box27 {
+    width: 45%;
+    height: 400px;
+    background: #9e7a5b;
+    text-align: left;
+    display: inline-block;
+    font-size: 50px;
+    border: solid;
+    border-width: 5px;
+    border-radius: 10px;
+    border-color: #745439;
+
+}
+.box28 {
+    width: 45%;
+    height: 400px;
+    background: #9e7a5b;
+    text-align: left;
+    border: solid;
+    border-width: 5px;
+    border-radius: 10px;
+    border-color: #745439;
+
+}
+.box29 {
+    width: 90%;
+    height: 130px;
+    background: #9e7a5b;
+    text-align: left;
+    font-size: 28px;
+    border: solid;
+    display: flex;
+    flex-direction: column;
+    align-content: space-between;
+    border-width: 5px;
+    border-radius: 10px;
+    border-color: #745439;
+
+}
+.box30 {
+    width: 80%;
+    height: 55px;
+    background: #9e7a5b;
+    text-align: center;
+    font-size: 24px;
+    justify-content: space-between;
+    border: solid;
+    border-width: 5px;
+    border-radius: 10px;
+    border-color: #745439;
+
+}
+.box31 {
+    width: 25%;
+    height: 95px;
+    background: #9e7a5b;
+    font-size: 36px;
+    text-align: center;
+    border: solid;
+    border-width: 5px;
+    border-radius: 10px;
+    border-color: #745439;
+
+}
+
+.flex-container {
+    align-items: flex-start;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    display: flex
+  }
+
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.full {
+    width: 100%;
+}
+
+.half {
+    width: 50%;
+}
